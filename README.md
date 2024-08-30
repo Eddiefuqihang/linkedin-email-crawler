@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/linkedin-email-crawler.git
+   git clone https://github.com/eddiefuqihang/linkedin-email-crawler.git
    cd linkedin-email-crawler
    ```
 
