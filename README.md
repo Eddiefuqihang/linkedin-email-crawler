@@ -19,14 +19,9 @@ Before you begin, ensure you have met the following requirements:
    cd linkedin-email-crawler
    ```
 
-2. Install the required Python packages:
+2. Set up the environment:
    ```
-   pip install -r requirements.txt
-   ```
-
-3. Install ChromeDriver:
-   ```
-   brew install --cask chromedriver
+   source ./setup.sh
    ```
 
 ## Usage
